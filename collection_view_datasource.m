@@ -1,6 +1,7 @@
 // Collection View Datasource
 // 
 //
+// IDECodeSnippetCompletionPrefix: collectionViewDataSource
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 416318D2-11DF-4D1B-B05C-26CF4611DB79
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
